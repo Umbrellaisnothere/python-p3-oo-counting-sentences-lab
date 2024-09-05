@@ -35,7 +35,7 @@ class MyString:
     
 
 
-value = MyString("This is a string! It has three sentences. Right?")
-print(value.count_sentences())
-print(value.count_words())
+# value = MyString("This is a string! It has three sentences. Right?")
+# print(value.count_sentences())
+# print(value.count_words())
   # pass
